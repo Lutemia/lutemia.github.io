@@ -13,10 +13,10 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Projects:
+    - Portfolio: "https://cloudyclouds.design/"
+    - CTF Writeups: "https://github.com/Lutemia/CTFWriteUps"
+  Contact: "https://cloudyclouds.design/"
 
 # --- Local development options ---
 
@@ -49,11 +49,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "rjohnson2377@gmail.com"
+  #facebook: deanattali
+  github: lutemia
+  #twitter: daattali
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -72,8 +72,8 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  #facebook: true
+  #linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
